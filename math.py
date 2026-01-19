@@ -1,3 +1,4 @@
+git branch -M main
 try:
     a = float(input("Enter first number: "))
     b = float(input("Enter second number: "))
